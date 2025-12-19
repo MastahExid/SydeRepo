@@ -1,0 +1,115 @@
+{
+  "name": "Syde Repo",
+  "identifier": "com.exid.syde.repo",
+  "apps": [
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName": "Riley Testut",
+      "version": "1.6",
+      "versionDate": "2026-01-01",
+      "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/3ip81JVwon4M6tYFt1dK.jpg",
+      "category": "emulators",
+      "localizedDescription": "A sideloadable app available through Syde."
+    },
+    {
+      "name": "RetroArch",
+      "bundleIdentifier": "org.libretro.RetroArch",
+      "developerName": "Libretro",
+      "version": "1.16.0",
+      "versionDate": "2026-01-01",
+      "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/eaqgne9OniuJigutGo4R.png",
+      "category": "emulators",
+      "localizedDescription": "A sideloadable app available through Syde."
+    }
+  ],
+  "syde": {
+    "categories": [
+      {
+        "id": "emulators",
+        "title": "Emulators"
+      },
+      {
+        "id": "games",
+        "title": "Games"
+      },
+      {
+        "id": "miscellaneous",
+        "title": "Miscellaneous"
+      },
+      {
+        "id": "photo-video",
+        "title": "Photo & Video"
+      },
+      {
+        "id": "entertainment",
+        "title": "Entertainment"
+      },
+      {
+        "id": "jailbreak",
+        "title": "Jailbreak"
+      },
+      {
+        "id": "productivity",
+        "title": "Productivity"
+      }
+    ],
+    "collections": [
+      {
+        "id": "top_picks",
+        "title": "Syde’s Top Picks",
+        "apps": [
+          "com.rileytestut.Delta",
+          "org.libretro.RetroArch"
+        ]
+      },
+      {
+        "id": "dyllie_vault",
+        "title": "Dyllie’s Vault",
+        "apps": [
+          "com.rileytestut.Delta",
+          "org.libretro.RetroArch"
+        ]
+      },
+      {
+        "id": "looking_to_game",
+        "title": "Looking to Game?",
+        "apps": [
+          "com.rileytestut.Delta",
+          "org.libretro.RetroArch"
+        ]
+      }
+    ],
+    "banners": [
+      {
+        "id": "welcome",
+        "title": "Syde’s Top Picks",
+        "imageURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/9MqL4266tb9fznO36j7S.jpg",
+        "action": {
+          "type": "collection",
+          "id": "top_picks"
+        }
+      },
+      {
+        "id": "dyllie_vault",
+        "title": "Dyllie’s Vault",
+        "imageURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/z5ZvQwOjf6E3H3maMzDX.jpg",
+        "action": {
+          "type": "collection",
+          "id": "dyllie_vault"
+        }
+      },
+      {
+        "id": "looking_to_game",
+        "title": "Looking to Game?",
+        "imageURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/r20RMfGoyBP6qXFq6jrP.jpg",
+        "action": {
+          "type": "collection",
+          "id": "looking_to_game"
+        }
+      }
+    ]
+  }
+}
