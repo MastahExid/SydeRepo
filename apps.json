@@ -80,24 +80,24 @@
       "localizedDescription": "PSP Emulator for iOS."
     },
     {
-      "name": "Dylemu",
-      "bundleIdentifier": "com.syde.dylemu",
-      "developerName": "Exid",
-      "version": "1.0",
+      "name": "Manic EMU",
+      "bundleIdentifier": "com.syde.manicemu",
+      "developerName": "Mafty",
+      "version": "1.8.1",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/exid/Dylemu_1.0.0.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/Gb7UZEeB9ZqPGtyN6gdy.png",
+      "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v1.8.1/ManicEMU.v1.8.1.SideloadJIT.ipa",
+      "iconURL": "https://manicemu.site/images/logo.png",
       "category": "emulators",
-      "localizedDescription": "Your NES Journey, Dyllie's Way."
+      "localizedDescription": "All-in-one retro emulator with a clean UI, powerful features, and smooth gameplay."
     },
     {
       "name": "Folium",
       "bundleIdentifier": "com.syde.folium",
       "developerName": "Jarrod Norwell",
-      "version": "1.0",
+      "version": "1.36",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/jarrodnorwell/folium-v1.13.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/i3vbL4CyREswhGpSjVtA.png",
+      "downloadURL": "https://github.com/folium-app/Folium/releases/download/1.36/Folium-iOS.1.36.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/BHqfLF8Rgggfz12mmnkT.png",
       "category": "emulators",
       "localizedDescription": "SNES/DS/3DS Emulator"
     },
