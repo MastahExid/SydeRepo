@@ -17,7 +17,7 @@
       "name": "Flappy Bird",
       "bundleIdentifier": "com.syde.flappybird",
       "developerName": "DOTGEARS",
-      "version": "1.0",
+      "version": "4.3",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/dotgears/FlappyBird-4.3-64bit.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/RiEITLw4yd1tWykizYiw.png",
@@ -28,7 +28,7 @@
       "name": "iSSB",
       "bundleIdentifier": "com.syde.issb",
       "developerName": "Luis Finke",
-      "version": "1.0",
+      "version": "2.21",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/issb/iSSB.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/J1ftE63Piyo3LVL4Dqk4.png",
@@ -36,15 +36,15 @@
       "localizedDescription": "A Super Smash Bros Fan-Game"
     },
     {
-      "name": "Feather",
-      "bundleIdentifier": "com.syde.feather",
+      "name": "Minecraft: Story Mode",
+      "bundleIdentifier": "com.syde.mcsm",
       "developerName": "khcrysalis",
       "version": "1.0",
       "versionDate": "2025-12-23",
       "downloadURL": "https://tinyurl.com/2rmc55kt",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/QAwgoNEixbGXhnil7ELl.png",
-      "category": "miscellaneous",
-      "localizedDescription": "Open-source IPA Signer!"
+      "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/mcsm.png",
+      "category": "games",
+      "localizedDescription": "A Story Adventure in the World of Minecraft!"
     },
     {
       "name": "Web Inspector",
@@ -349,10 +349,10 @@
       "developerName": "Rockstar Games",
       "version": "1.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/FWlTuzMQ",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/gtavcremaster/gtavc-v1.5.6-syde.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/lQB4WXKFbB3UyWcfsMDA.png",
       "category": "games",
-      "localizedDescription": "Welcome to neon-lit Vice City."
+      "localizedDescription": "Welcome to Vice City."
     },
     {
       "name": "GTA San Andreas",
