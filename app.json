@@ -39,9 +39,9 @@
       "name": "Minecraft: Story Mode",
       "bundleIdentifier": "com.syde.mcsm",
       "developerName": "Telltale Games",
-      "version": "1.0",
+      "version": "1.7.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://tinyurl.com/2rmc55kt",
+      "downloadURL": "https://tinyurl.com/bd2c79nk",
       "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/mcsm.png",
       "category": "games",
       "localizedDescription": "A Story Adventure in the World of Minecraft!"
@@ -50,7 +50,7 @@
       "name": "Web Inspector",
       "bundleIdentifier": "com.syde.webinspector",
       "developerName": "And a Dinosaur",
-      "version": "1.0",
+      "version": "1.2.7",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/andadinosaur/Web.Inspector_1.2.7.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/787LVMpbTepHVwy3sDWy.png",
@@ -289,14 +289,14 @@
       "localizedDescription": "App Downgrader and Installer."
     },
     {
-      "name": "VoiceSmart",
-      "bundleIdentifier": "com.syde.voicesmart",
+      "name": "ShowMania",
+      "bundleIdentifier": "com.syde.showmania",
       "developerName": "HDO.App",
-      "version": "1.0",
+      "version": "1.2.0",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/MoviesIOS/releases/download/HDObox/Voice.Smart_1.2.0_NoAds.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/UZOUkFCBXPUkbEOj7M8B.jpg",
-      "category": "miscellaneous",
+      "category": "entertainment",
       "localizedDescription": "Stream Movies & TV Shows (HDO Box)"
     },
     {
@@ -314,22 +314,22 @@
       "name": "HD Flix",
       "bundleIdentifier": "com.syde.hdflix",
       "developerName": "HD Flix",
-      "version": "1.0",
+      "version": "2.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/MoviesIOS/releases/download/HDFlix1/HD.Flix_5.0_NoAds.ipa",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/hdf/HD.Flix.No.Ads.v2.0.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/wvYwfrZ3ZQ5VAFWLTsr8.png",
-      "category": "miscellaneous",
+      "category": "entertainment",
       "localizedDescription": "Stream Movies & TV Shows"
     },
     {
       "name": "MovieBoxPro",
       "bundleIdentifier": "com.syde.movieboxpro",
       "developerName": "MBP Inc.",
-      "version": "1.0",
+      "version": "15.2",
       "versionDate": "2025-12-23",
       "downloadURL": "https://www.movieboxpro.app/ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/b9J1mUszkWvoVMJDdq2B.png",
-      "category": "miscellaneous",
+      "category": "entertainment",
       "localizedDescription": "Watch Anytime, Anywhere Instantly."
     },
     {
@@ -369,7 +369,7 @@
       "name": "Resident Evil 4",
       "bundleIdentifier": "com.syde.residentevil4",
       "developerName": "CAPCOM",
-      "version": "1.0",
+      "version": "1.0.4",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/c4pcom/RE4US_1.0.4.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/bbku08cPlNrDNBjlx9zG.png",
@@ -380,9 +380,9 @@
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.syde.myfitnesspal",
       "developerName": "MyFitnessPal, Inc.",
-      "version": "1.0",
+      "version": "25.50.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2024/MyFitnessPalPremium-24.32.0.ipa",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/myfitnesspal/MyFitnessPal.Premium.25.50.0.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/b5XFiVonAjjq1iEu1L9i.png",
       "category": "miscellaneous",
       "localizedDescription": "Reach health, fitness & weight goals."
@@ -523,23 +523,23 @@
       "name": "BandLab",
       "bundleIdentifier": "com.syde.bandlab",
       "developerName": "BandLab Pte Ltd",
-      "version": "1.0",
+      "version": "11.14.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/share/w4CRZ6jB",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/8fR9U734lFkY5ZtO3Z3U.png",
-      "category": "miscellaneous",
-      "localizedDescription": "Music Making Studio"
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/bandlab/BandLab-11.14.0-Syde.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/U5lFqtCYJynCPkO6cgR8.png",
+      "category": "productivity",
+      "localizedDescription": "Music Maker & Recording Studio"
     },
     {
       "name": "Transparent App Icons",
       "bundleIdentifier": "com.syde.transparentappicons",
-      "developerName": "Tretien",
+      "developerName": "Noah Gilmore",
       "version": "1.3.1",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/TransparentAppIcons/TransparentAppIcons-1.3.1.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/x8s4j4d94j3k2l4h3g2f.png",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/CIf1fSexKDgNL96arXde.jpg",
       "category": "miscellaneous",
-      "localizedDescription": "Create transparent app icons."
+      "localizedDescription": "Customize Home Screen Icons"
     },
     {
       "name": "GTA Chinatown Wars",
@@ -655,12 +655,12 @@
       "name": "Mojo",
       "bundleIdentifier": "com.syde.mojo",
       "developerName": "Archery Inc.",
-      "version": "1.0",
+      "version": "1.253.1",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/9O7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/h3g2f8d94j3k2l4h3g2f.png",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/mojoeditor/Mojo_AI_Video_._Reels_Editor_v1_253_1.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/FpDP9kCIK7MAuIpk3Rpm.png",
       "category": "miscellaneous",
-      "localizedDescription": "Create animated stories."
+      "localizedDescription": "Video Editor with AI Captions"
     },
     {
       "name": "MoshUp",
@@ -732,12 +732,12 @@
       "name": "Photoshop",
       "bundleIdentifier": "com.syde.photoshop",
       "developerName": "Adobe Inc.",
-      "version": "1.0",
+      "version": "7.2.2",
       "versionDate": "2025-12-23",
       "downloadURL": "https://download.sydeapp.org/api/public/dl/6P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/h3g2f8d94j3k2l4h3g2f.png",
-      "category": "miscellaneous",
-      "localizedDescription": "Photo editing and design."
+      "category": "productivity",
+      "localizedDescription": "Photo Editor & Graphic Design"
     },
     {
       "name": "AdGuard Pro",
