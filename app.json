@@ -38,7 +38,7 @@
     {
       "name": "Minecraft: Story Mode",
       "bundleIdentifier": "com.syde.mcsm",
-      "developerName": "khcrysalis",
+      "developerName": "Telltale Games",
       "version": "1.0",
       "versionDate": "2025-12-23",
       "downloadURL": "https://tinyurl.com/2rmc55kt",
@@ -250,7 +250,7 @@
       "developerName": "zzanehip",
       "version": "1.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+      "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_7/OldOS.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/GfNlaweEP39FRMzGtHer.png",
       "category": "miscellaneous",
       "localizedDescription": "Relive iOS 4 on Modern Devices."
@@ -575,15 +575,15 @@
       "localizedDescription": "Advanced AI Assistant"
     },
     {
-      "name": "Back to the Future: The Game",
-      "bundleIdentifier": "com.syde.backtothefuturethegame",
+      "name": "Minecraft: Story Mode - S2",
+      "bundleIdentifier": "com.syde.mcsm2",
       "developerName": "Telltale Games",
-      "version": "1.0",
+      "version": "1.6",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/2O7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/h3g2f8d94j3k2l4h3g2f.png",
+      "downloadURL": "https://tinyurl.com/bv8hkbn8",
+      "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/mcsm2.png",
       "category": "games",
-      "localizedDescription": "Great Scott! A new adventure."
+      "localizedDescription": "Meet again with Jesse and his team in a new adventure!"
     },
     {
       "name": "Goat Simulator",
@@ -720,13 +720,13 @@
     {
       "name": "Jaility",
       "bundleIdentifier": "com.syde.jaility",
-      "developerName": "HAH",
-      "version": "1.0",
+      "developerName": "haxi0",
+      "version": "3.1.1",
       "versionDate": "2025-12-23",
       "downloadURL": "https://download.sydeapp.org/api/public/dl/5P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/j3k2l4h3g2f8d94j3k2l.png",
       "category": "miscellaneous",
-      "localizedDescription": "Jailbreak utilities."
+      "localizedDescription": "Simple iOS Utility App."
     },
     {
       "name": "Photoshop",
