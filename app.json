@@ -592,9 +592,9 @@
       "version": "1.0",
       "versionDate": "2025-12-23",
       "downloadURL": "https://download.sydeapp.org/api/public/dl/3O7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/g2f8d94j3k2l4h3g2f8d.png",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/ZUKjQ6zL4AZMEkhF8xc3.png",
       "category": "games",
-      "localizedDescription": "You are a goat."
+      "localizedDescription": "Fulfil your Dreams, Be a GOAT!"
     },
     {
       "name": "Max Payne",
@@ -644,12 +644,12 @@
       "name": "Minecraft",
       "bundleIdentifier": "com.syde.minecraft",
       "developerName": "Mojang",
-      "version": "1.0",
+      "version": "1.21.124",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/8O7fB3Z5",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/minecraft/Minecraft.1.21.124.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/j3k2l4h3g2f8d94j3k2l.png",
       "category": "games",
-      "localizedDescription": "Create, explore and survive."
+      "localizedDescription": "Create & Explore & Survive!"
     },
     {
       "name": "Mojo",
@@ -734,7 +734,7 @@
       "developerName": "Adobe Inc.",
       "version": "7.2.2",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/6P7fB3Z5",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/psd/Adobe.Photoshop.Pro.7.2.2.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/h3g2f8d94j3k2l4h3g2f.png",
       "category": "productivity",
       "localizedDescription": "Photo Editor & Graphic Design"
