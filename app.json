@@ -300,15 +300,15 @@
       "localizedDescription": "Stream Movies & TV Shows (HDO Box)"
     },
     {
-      "name": "ReelsDramas",
-      "bundleIdentifier": "com.syde.reelsdramas",
-      "developerName": "HD Flix",
-      "version": "1.0",
+      "name": "R.E.P.O",
+      "bundleIdentifier": "com.syde.repo",
+      "developerName": "GLEPorts",
+      "version": "0.2",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/MoviesIOS/releases/download/HDFlix/ReelsDramas_3.0_NoAds.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/ZbXcQvf62CEGKBrI01MO.jpg",
-      "category": "miscellaneous",
-      "localizedDescription": "Stream Movies & TV Shows (HD Flix)"
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/gleports/R.E.P.O.v0.2.SYDE.ipa",
+      "iconURL": "https://i.imgur.com/bJIPI2W.png",
+      "category": "games",
+      "localizedDescription": " Locate valuables as you retrieve and extract to satisfy your creator's desires."
     },
     {
       "name": "HD Flix",
@@ -399,15 +399,15 @@
       "localizedDescription": "Organize and play your videos"
     },
     {
-      "name": "Photoshop Express",
-      "bundleIdentifier": "com.syde.photoshopexpress",
-      "developerName": "Adobe Inc.",
-      "version": "1.0",
+      "name": "Subnautica",
+      "bundleIdentifier": "com.syde.subnautica",
+      "developerName": "Unknown Worlds",
+      "version": "1.2.4",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2024/PhotoshopExpress-24.30.0.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/FptsUAf1KVeDOFLaOdn8.png",
-      "category": "photo-video",
-      "localizedDescription": "Video, AI Retouch, Pic Collage"
+      "downloadURL": "https://mobdisc.com/fdl/2346fbf8-b0b8-4122-9619-d7f027b87c81/Subnautica-v1-2-4.ipa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/5b/e8/eb5be8e8-3c4a-fcff-b2b6-f4661b30475d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "localizedDescription": "A survival open-world undersea"
     },
     {
       "name": "Sudachi",
