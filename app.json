@@ -292,12 +292,12 @@
       "name": "ShowMania",
       "bundleIdentifier": "com.syde.showmania",
       "developerName": "HDO.App",
-      "version": "1.2.0",
+      "version": "1.0.5",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/MoviesIOS/releases/download/HDObox/Voice.Smart_1.2.0_NoAds.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/UZOUkFCBXPUkbEOj7M8B.jpg",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/showmania/ShowMania_1.0.5_Syde.ipa",
+      "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/512x512bb.jpg",
       "category": "entertainment",
-      "localizedDescription": "Stream Movies & TV Shows (HDO Box)"
+      "localizedDescription": "Stream Movies & TV Shows for Free!"
     },
     {
       "name": "R.E.P.O",
