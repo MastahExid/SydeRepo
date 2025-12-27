@@ -454,15 +454,15 @@
       "localizedDescription": "Untethered Jailbreak for 15.0 - 16.6.1"
     },
     {
-      "name": "Taurine",
-      "bundleIdentifier": "com.syde.taurine",
-      "developerName": "CoolStar",
+      "name": "Gangstar Rio: City of Saints",
+      "bundleIdentifier": "com.syde.gangstar",
+      "developerName": "Gameloft",
       "version": "1.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/D217i8Ni97MKKb1GoAh4.png",
-      "category": "jailbreak",
-      "localizedDescription": "Jailbreak Client for iOS 14.0-14.8.1"
+      "downloadURL": "https://dl.iosvizor.net/gangstar-rio-city-of-saints/Gangstar-Rio-City-of-Saints-v1-4-11.ipa",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2017/09/1331.jpg",
+      "category": "games",
+      "localizedDescription": "The Return of the famous series Gangstar"
     },
     {
       "name": "LoFi Cam",
