@@ -127,9 +127,9 @@
       "name": "0.3MP Camera",
       "bundleIdentifier": "com.syde.03mpcamera",
       "developerName": "Dmitry Shatilov",
-      "version": "1.0",
+      "version": "3.5.3",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/DmitryShatilov/0.3MP.Camera_3.2.5.ipa",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/0.3mp/0.3MPCamera-3.5.3-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/EMP8hO8N95kP2edwYaTV.png",
       "category": "photo-video",
       "localizedDescription": "Nokia-inspired low-res camera."
@@ -256,15 +256,15 @@
       "localizedDescription": "Relive iOS 4 on Modern Devices."
     },
     {
-      "name": "WDBFontOverwrite",
+      "name": "HITMAN World of Assassination",
       "bundleIdentifier": "com.syde.wdbfontoverwrite",
-      "developerName": "Ginsudev",
-      "version": "1.0",
+      "developerName": "IO Interactive",
+      "version": "3.230.7",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.8/WDBFontOverwrite.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/XexMT4DEFhdH4ttDxxUO.png",
-      "category": "miscellaneous",
-      "localizedDescription": "Override the iOS system fonts!"
+      "downloadURL": "https://dl.iosvizor.net/hitman-world-of-assassination/HITMAN-World-of-Assassination-v3-230-7.ipa",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2025/09/hitman-world-of-assassination.webp",
+      "category": "games",
+      "localizedDescription": "Become Agent 47, the ultimate stealth assassin."
     },
     {
       "name": "TrollInstallerX",
@@ -278,15 +278,15 @@
       "localizedDescription": "Universal TrollStore Installer"
     },
     {
-      "name": "MuffinStore",
-      "bundleIdentifier": "com.syde.muffinstore",
-      "developerName": "Mineek",
-      "version": "1.0",
+      "name": "Stemz",
+      "bundleIdentifier": "com.syde.stemz",
+      "developerName": "MWM",
+      "version": "4.03.01",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/MuffinStore-1.1.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/ecWPqkuUftHlKCf1YJbf.png",
-      "category": "miscellaneous",
-      "localizedDescription": "App Downgrader and Installer."
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/stemz/Stemz.Max.4.03.01.ipa",
+      "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/stemz.png",
+      "category": "productivity",
+      "localizedDescription": "Effortlessly isolate vocals from any song."
     },
     {
       "name": "ShowMania",
@@ -600,20 +600,20 @@
       "name": "Max Payne",
       "bundleIdentifier": "com.syde.maxpayne",
       "developerName": "Rockstar Games",
-      "version": "1.0",
+      "version": "2.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/4O7fB3Z5",
+      "downloadURL": "https://dl.iosvizor.net/max-payne-mobile/Max-Payne-Mobile-v2-0.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/CPg6M8l2mfbTRXes1XRk.png",
       "category": "games",
       "localizedDescription": "Noir. Bullet Time. Revenge."
     },
     {
-      "name": "Bully Anniversary Edition",
+      "name": "Bully: Anniversary Edition",
       "bundleIdentifier": "com.syde.bullyanniversaryedition",
       "developerName": "Rockstar Games",
-      "version": "1.0",
+      "version": "1.1",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/5O7fB3Z5",
+      "downloadURL": "https://dl.iosvizor.net/bully-anniversary-edition/Bully-Anniversary-Edition-v1-1.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/83KWaQWSfhFT0hKEpeHX.png",
       "category": "games",
       "localizedDescription": "This ain't your typical school."
@@ -647,7 +647,7 @@
       "version": "1.21.124",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/minecraft/Minecraft.1.21.124.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/j3k2l4h3g2f8d94j3k2l.png",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/DZ8QqpYodU1PgiPYGzGl.png",
       "category": "games",
       "localizedDescription": "Create & Explore & Survive!"
     },
@@ -680,9 +680,9 @@
       "version": "1.0",
       "versionDate": "2025-12-23",
       "downloadURL": "https://download.sydeapp.org/api/public/dl/1P7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/d94j3k2l4h3g2f8d94j3.png",
-      "category": "miscellaneous",
-      "localizedDescription": "AI powered video editing."
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/gEorNyxLDvlCarrHm8gn.jpeg",
+      "category": "productivity",
+      "localizedDescription": "Auto Subtitles & Edit Videos"
     },
     {
       "name": "DManager",
@@ -753,13 +753,13 @@
     {
       "name": "ProCCD",
       "bundleIdentifier": "com.syde.proccd",
-      "developerName": "Cerleo",
-      "version": "1.0",
+      "developerName": "YengShine",
+      "version": "5.2.1",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/8P7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/d94j3k2l4h3g2f8d94j3.png",
-      "category": "miscellaneous",
-      "localizedDescription": "Retro digital camera."
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/proccd/ProCCD.VIP.5.2.1.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/fGD8EfvTOmUWztDppsR8.png",
+      "category": "photo-video",
+      "localizedDescription": "2000s Vintage Analog Film"
     },
     {
       "name": "Dazz Cam",
@@ -786,13 +786,13 @@
     {
       "name": "Balatro",
       "bundleIdentifier": "com.syde.balatro",
-      "developerName": "Playstack",
-      "version": "1.0",
+      "developerName": "Playstack Ltd",
+      "version": "1.3",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/1Q7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/f8d94j3k2l4h3g2f8d94.png",
+      "downloadURL": "https://dl.iosvizor.net/balatro/Balatro-v1-3.ipa",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2024/09/balatro-768x768.webp",
       "category": "games",
-      "localizedDescription": "Poker roguelike."
+      "localizedDescription": "When Poker Meets Solitaire"
     }
   ],
   "syde": {
