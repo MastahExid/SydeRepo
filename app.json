@@ -157,15 +157,15 @@
       "localizedDescription": "Retro Games meet Modern Design."
     },
     {
-      "name": "XPatcher",
-      "bundleIdentifier": "com.syde.xpatcher",
-      "developerName": "Wh0ba",
-      "version": "1.0",
+      "name": "Five Nights at Freddy’s 2",
+      "bundleIdentifier": "com.syde.fnaf2",
+      "developerName": "Clickteam LLC",
+      "version": "2.0.5",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/OzaTJ4acIwpH7diFyMUn.png",
-      "category": "miscellaneous",
-      "localizedDescription": "ROM-Patcher Utility for iOS."
+      "downloadURL": "https://tinyurl.com/4y3xncz9",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2023/07/Five-Nights-at-Freddys-2.png",
+      "category": "games",
+      "localizedDescription": "No place to run."
     },
     {
       "name": "Flycast",
@@ -190,15 +190,15 @@
       "localizedDescription": "Multi-emulator frontend for iOS & tvOS"
     },
     {
-      "name": "appDB",
-      "bundleIdentifier": "com.syde.appdb",
-      "developerName": "ned",
-      "version": "1.0",
+      "name": "Five Nights at Freddy’s",
+      "bundleIdentifier": "com.syde.fnaf",
+      "developerName": "Clickteam LLC",
+      "version": "2.0.5",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/appdb/appdb-v1.1.6-SYDE.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/YIJjkPxoL3xhO4ohCTjR.png",
-      "category": "miscellaneous",
-      "localizedDescription": "A fully-featured iOS client for appdb.to"
+      "downloadURL": "https://tinyurl.com/374y93xb",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2023/11/five-nights-at-freddys.png",
+      "category": "games",
+      "localizedDescription": "You have the night watch."
     },
     {
       "name": "iDOS",
@@ -349,7 +349,7 @@
       "developerName": "Rockstar Games",
       "version": "1.2",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/gtavcremaster/gtavc-v1.5.6-syde.ipa",
+      "downloadURL": "https://tinyurl.com/mpw2kp9r",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/lQB4WXKFbB3UyWcfsMDA.png",
       "category": "games",
       "localizedDescription": "Welcome to Vice City."
@@ -360,7 +360,7 @@
       "developerName": "Rockstar Games",
       "version": "1.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/tgIVlBXy",
+      "downloadURL": "https://tinyurl.com/5cw2s2z2",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/1Yoo4MB6Cnpxl36VvLlF.png",
       "category": "games",
       "localizedDescription": "Save CJ's family, reclaim the streets."
@@ -391,9 +391,9 @@
       "name": "Infuse",
       "bundleIdentifier": "com.syde.infuse",
       "developerName": "Firecore, LLC",
-      "version": "1.0",
+      "version": "8.3.5",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2024/InfusePro-7.8.1-1.2.0.ipa",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/inf/Infuse-v8.3.5-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/xwgobqoco1oYMOja0VpL.png",
       "category": "photo-video",
       "localizedDescription": "Organize and play your videos"
@@ -413,7 +413,7 @@
       "name": "Sudachi",
       "bundleIdentifier": "com.syde.sudachi",
       "developerName": "Jarrod Norwell",
-      "version": "1.0",
+      "version": "0.1.7",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Sudachi-0.0.1.7.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/v5dMTIzju50uWtNRsJkF.jpg",
