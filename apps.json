@@ -1,5 +1,5 @@
 {
-  "name": "Syde Repo",
+  "name": "Syde",
   "identifier": "com.exid.syde.repo",
   "apps": [
     {
@@ -17,7 +17,7 @@
       "name": "Flappy Bird",
       "bundleIdentifier": "com.syde.flappybird",
       "developerName": "DOTGEARS",
-      "version": "1.0",
+      "version": "4.3",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/dotgears/FlappyBird-4.3-64bit.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/RiEITLw4yd1tWykizYiw.png",
@@ -28,7 +28,7 @@
       "name": "iSSB",
       "bundleIdentifier": "com.syde.issb",
       "developerName": "Luis Finke",
-      "version": "1.0",
+      "version": "2.21",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/issb/iSSB.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/J1ftE63Piyo3LVL4Dqk4.png",
@@ -36,21 +36,21 @@
       "localizedDescription": "A Super Smash Bros Fan-Game"
     },
     {
-      "name": "Feather",
-      "bundleIdentifier": "com.syde.feather",
-      "developerName": "khcrysalis",
-      "version": "1.0",
+      "name": "Minecraft: Story Mode",
+      "bundleIdentifier": "com.syde.mcsm",
+      "developerName": "Telltale Games",
+      "version": "1.7.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://tinyurl.com/2rmc55kt",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/QAwgoNEixbGXhnil7ELl.png",
-      "category": "miscellaneous",
-      "localizedDescription": "Open-source IPA Signer!"
+      "downloadURL": "https://tinyurl.com/bd2c79nk",
+      "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/mcsm.png",
+      "category": "games",
+      "localizedDescription": "A Story Adventure in the World of Minecraft!"
     },
     {
       "name": "Web Inspector",
       "bundleIdentifier": "com.syde.webinspector",
       "developerName": "And a Dinosaur",
-      "version": "1.0",
+      "version": "1.2.7",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/andadinosaur/Web.Inspector_1.2.7.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/787LVMpbTepHVwy3sDWy.png",
@@ -127,9 +127,9 @@
       "name": "0.3MP Camera",
       "bundleIdentifier": "com.syde.03mpcamera",
       "developerName": "Dmitry Shatilov",
-      "version": "1.0",
+      "version": "3.5.3",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/DmitryShatilov/0.3MP.Camera_3.2.5.ipa",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/0.3mp/0.3MPCamera-3.5.3-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/EMP8hO8N95kP2edwYaTV.png",
       "category": "photo-video",
       "localizedDescription": "Nokia-inspired low-res camera."
@@ -157,15 +157,15 @@
       "localizedDescription": "Retro Games meet Modern Design."
     },
     {
-      "name": "XPatcher",
-      "bundleIdentifier": "com.syde.xpatcher",
-      "developerName": "Wh0ba",
-      "version": "1.0",
+      "name": "Five Nights at Freddy’s 2",
+      "bundleIdentifier": "com.syde.fnaf2",
+      "developerName": "Clickteam LLC",
+      "version": "2.0.5",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/OzaTJ4acIwpH7diFyMUn.png",
-      "category": "miscellaneous",
-      "localizedDescription": "ROM-Patcher Utility for iOS."
+      "downloadURL": "https://tinyurl.com/4y3xncz9",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2023/07/Five-Nights-at-Freddys-2.png",
+      "category": "games",
+      "localizedDescription": "No place to run."
     },
     {
       "name": "Flycast",
@@ -190,15 +190,15 @@
       "localizedDescription": "Multi-emulator frontend for iOS & tvOS"
     },
     {
-      "name": "appDB",
-      "bundleIdentifier": "com.syde.appdb",
-      "developerName": "ned",
-      "version": "1.0",
+      "name": "Five Nights at Freddy’s",
+      "bundleIdentifier": "com.syde.fnaf",
+      "developerName": "Clickteam LLC",
+      "version": "2.0.5",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/appdb/appdb-v1.1.6-SYDE.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/YIJjkPxoL3xhO4ohCTjR.png",
-      "category": "miscellaneous",
-      "localizedDescription": "A fully-featured iOS client for appdb.to"
+      "downloadURL": "https://tinyurl.com/374y93xb",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2023/11/five-nights-at-freddys.png",
+      "category": "games",
+      "localizedDescription": "You have the night watch."
     },
     {
       "name": "iDOS",
@@ -250,21 +250,21 @@
       "developerName": "zzanehip",
       "version": "1.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+      "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_7/OldOS.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/GfNlaweEP39FRMzGtHer.png",
       "category": "miscellaneous",
       "localizedDescription": "Relive iOS 4 on Modern Devices."
     },
     {
-      "name": "WDBFontOverwrite",
+      "name": "HITMAN World of Assassination",
       "bundleIdentifier": "com.syde.wdbfontoverwrite",
-      "developerName": "Ginsudev",
-      "version": "1.0",
+      "developerName": "IO Interactive",
+      "version": "3.230.7",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.8/WDBFontOverwrite.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/XexMT4DEFhdH4ttDxxUO.png",
-      "category": "miscellaneous",
-      "localizedDescription": "Override the iOS system fonts!"
+      "downloadURL": "https://dl.iosvizor.net/hitman-world-of-assassination/HITMAN-World-of-Assassination-v3-230-7.ipa",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2025/09/hitman-world-of-assassination.webp",
+      "category": "games",
+      "localizedDescription": "Become Agent 47, the ultimate stealth assassin."
     },
     {
       "name": "TrollInstallerX",
@@ -278,67 +278,67 @@
       "localizedDescription": "Universal TrollStore Installer"
     },
     {
-      "name": "MuffinStore",
-      "bundleIdentifier": "com.syde.muffinstore",
-      "developerName": "Mineek",
-      "version": "1.0",
+      "name": "Stemz",
+      "bundleIdentifier": "com.syde.stemz",
+      "developerName": "MWM",
+      "version": "4.03.01",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/MuffinStore-1.1.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/ecWPqkuUftHlKCf1YJbf.png",
-      "category": "miscellaneous",
-      "localizedDescription": "App Downgrader and Installer."
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/stemz/Stemz.Max.4.03.01.ipa",
+      "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/stemz.png",
+      "category": "productivity",
+      "localizedDescription": "Effortlessly isolate vocals from any song."
     },
     {
-      "name": "VoiceSmart",
-      "bundleIdentifier": "com.syde.voicesmart",
+      "name": "ShowMania",
+      "bundleIdentifier": "com.syde.showmania",
       "developerName": "HDO.App",
-      "version": "1.0",
+      "version": "1.0.5",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/MoviesIOS/releases/download/HDObox/Voice.Smart_1.2.0_NoAds.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/UZOUkFCBXPUkbEOj7M8B.jpg",
-      "category": "miscellaneous",
-      "localizedDescription": "Stream Movies & TV Shows (HDO Box)"
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/showmania/ShowMania_1.0.5_Syde.ipa",
+      "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/512x512bb.jpg",
+      "category": "entertainment",
+      "localizedDescription": "Stream Movies & TV Shows for Free!"
     },
     {
-      "name": "ReelsDramas",
-      "bundleIdentifier": "com.syde.reelsdramas",
-      "developerName": "HD Flix",
-      "version": "1.0",
+      "name": "R.E.P.O",
+      "bundleIdentifier": "com.syde.repo",
+      "developerName": "GLEPorts",
+      "version": "0.2",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/MoviesIOS/releases/download/HDFlix/ReelsDramas_3.0_NoAds.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/ZbXcQvf62CEGKBrI01MO.jpg",
-      "category": "miscellaneous",
-      "localizedDescription": "Stream Movies & TV Shows (HD Flix)"
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/gleports/R.E.P.O.v0.2.SYDE.ipa",
+      "iconURL": "https://i.imgur.com/bJIPI2W.png",
+      "category": "games",
+      "localizedDescription": "Retrieve valuables, avoid monsters, survive!"
     },
     {
       "name": "HD Flix",
       "bundleIdentifier": "com.syde.hdflix",
       "developerName": "HD Flix",
-      "version": "1.0",
+      "version": "2.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/MoviesIOS/releases/download/HDFlix1/HD.Flix_5.0_NoAds.ipa",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/hdf/HD.Flix.No.Ads.v2.0.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/wvYwfrZ3ZQ5VAFWLTsr8.png",
-      "category": "miscellaneous",
+      "category": "entertainment",
       "localizedDescription": "Stream Movies & TV Shows"
     },
     {
       "name": "MovieBoxPro",
       "bundleIdentifier": "com.syde.movieboxpro",
       "developerName": "MBP Inc.",
-      "version": "1.0",
+      "version": "15.2",
       "versionDate": "2025-12-23",
       "downloadURL": "https://www.movieboxpro.app/ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/b9J1mUszkWvoVMJDdq2B.png",
-      "category": "miscellaneous",
+      "category": "entertainment",
       "localizedDescription": "Watch Anytime, Anywhere Instantly."
     },
     {
       "name": "GTA III",
       "bundleIdentifier": "com.syde.gtaiii",
       "developerName": "Rockstar Games",
-      "version": "1.0",
+      "version": "1.3",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/CqxrqRGY",
+      "downloadURL": "https://tinyurl.com/2nmu3wy6",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/tHpCssU3P9Sp1TPSPFLJ.png",
       "category": "games",
       "localizedDescription": "The Crime-Epic that Reshaped Gaming."
@@ -347,12 +347,12 @@
       "name": "GTA Vice City",
       "bundleIdentifier": "com.syde.gtavicecity",
       "developerName": "Rockstar Games",
-      "version": "1.0",
+      "version": "1.2",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/FWlTuzMQ",
+      "downloadURL": "https://tinyurl.com/mpw2kp9r",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/lQB4WXKFbB3UyWcfsMDA.png",
       "category": "games",
-      "localizedDescription": "Welcome to neon-lit Vice City."
+      "localizedDescription": "Welcome to Vice City."
     },
     {
       "name": "GTA San Andreas",
@@ -360,7 +360,7 @@
       "developerName": "Rockstar Games",
       "version": "1.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/tgIVlBXy",
+      "downloadURL": "https://tinyurl.com/5cw2s2z2",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/1Yoo4MB6Cnpxl36VvLlF.png",
       "category": "games",
       "localizedDescription": "Save CJ's family, reclaim the streets."
@@ -369,9 +369,9 @@
       "name": "Resident Evil 4",
       "bundleIdentifier": "com.syde.residentevil4",
       "developerName": "CAPCOM",
-      "version": "1.0",
+      "version": "1.0.5",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/c4pcom/RE4US_1.0.4.ipa",
+      "downloadURL": "https://tinyurl.com/2kt3ap6d",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/bbku08cPlNrDNBjlx9zG.png",
       "category": "games",
       "localizedDescription": "Survival is just the beginning."
@@ -380,9 +380,9 @@
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.syde.myfitnesspal",
       "developerName": "MyFitnessPal, Inc.",
-      "version": "1.0",
+      "version": "25.50.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2024/MyFitnessPalPremium-24.32.0.ipa",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/myfitnesspal/MyFitnessPal.Premium.25.50.0.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/b5XFiVonAjjq1iEu1L9i.png",
       "category": "miscellaneous",
       "localizedDescription": "Reach health, fitness & weight goals."
@@ -391,29 +391,29 @@
       "name": "Infuse",
       "bundleIdentifier": "com.syde.infuse",
       "developerName": "Firecore, LLC",
-      "version": "1.0",
+      "version": "8.3.5",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2024/InfusePro-7.8.1-1.2.0.ipa",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/inf/Infuse-v8.3.5-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/xwgobqoco1oYMOja0VpL.png",
       "category": "photo-video",
       "localizedDescription": "Organize and play your videos"
     },
     {
-      "name": "Photoshop Express",
-      "bundleIdentifier": "com.syde.photoshopexpress",
-      "developerName": "Adobe Inc.",
-      "version": "1.0",
+      "name": "Subnautica",
+      "bundleIdentifier": "com.syde.subnautica",
+      "developerName": "Unknown Worlds",
+      "version": "1.2.4",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2024/PhotoshopExpress-24.30.0.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/FptsUAf1KVeDOFLaOdn8.png",
-      "category": "photo-video",
-      "localizedDescription": "Video, AI Retouch, Pic Collage"
+      "downloadURL": "https://mobdisc.com/fdl/2346fbf8-b0b8-4122-9619-d7f027b87c81/Subnautica-v1-2-4.ipa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/5b/e8/eb5be8e8-3c4a-fcff-b2b6-f4661b30475d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "localizedDescription": "A survival open-world undersea"
     },
     {
       "name": "Sudachi",
       "bundleIdentifier": "com.syde.sudachi",
       "developerName": "Jarrod Norwell",
-      "version": "1.0",
+      "version": "0.1.7",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Sudachi-0.0.1.7.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/v5dMTIzju50uWtNRsJkF.jpg",
@@ -454,15 +454,15 @@
       "localizedDescription": "Untethered Jailbreak for 15.0 - 16.6.1"
     },
     {
-      "name": "Taurine",
-      "bundleIdentifier": "com.syde.taurine",
-      "developerName": "CoolStar",
+      "name": "Gangstar Rio: City of Saints",
+      "bundleIdentifier": "com.syde.gangstar",
+      "developerName": "Gameloft",
       "version": "1.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/D217i8Ni97MKKb1GoAh4.png",
-      "category": "jailbreak",
-      "localizedDescription": "Jailbreak Client for iOS 14.0-14.8.1"
+      "downloadURL": "https://dl.iosvizor.net/gangstar-rio-city-of-saints/Gangstar-Rio-City-of-Saints-v1-4-11.ipa",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2017/09/1331.jpg",
+      "category": "games",
+      "localizedDescription": "The Return of the famous series Gangstar"
     },
     {
       "name": "LoFi Cam",
@@ -501,45 +501,45 @@
       "name": "The Wolf Among Us",
       "bundleIdentifier": "com.syde.thewolfamongus",
       "developerName": "Telltale Games",
-      "version": "1.0",
+      "version": "1.4",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/oFeCa7VY",
+      "downloadURL": "https://download.gamejolt.net/d7b9ce8b13d44f6c588dbe4896069a4f60e2a89f48e59394a22fa1511f94faf5,1766849141,7/data/games/16/108/1038608/files/694e97f3cdb04/the-wolf-among-us-alleps-syde.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/uvt5fWdFMiJalv6lSIJQ.png",
       "category": "games",
       "localizedDescription": "A gritty, noir tale in the Fables universe."
     },
     {
-      "name": "Osliver Photos",
-      "bundleIdentifier": "com.syde.osliverphotos",
-      "developerName": "HD Flix",
+      "name": "Nuvio",
+      "bundleIdentifier": "com.syde.nuvio",
+      "developerName": "tapframe",
       "version": "1.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/vpm_30_B",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/OYIzXUo1qB672qiBTP31.jpeg",
-      "category": "miscellaneous",
-      "localizedDescription": "Stream Movies & TV Shows (HD Flix)"
+      "downloadURL": "https://github.com/tapframe/NuvioStreaming/releases/download/1.3.0/Stable_1-3-0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/tapframe/NuvioStreaming/refs/heads/main/assets/ios/iTunesArtwork%403x.png",
+      "category": "entertainment",
+      "localizedDescription": "A Simple Media Hub"
     },
     {
       "name": "BandLab",
       "bundleIdentifier": "com.syde.bandlab",
       "developerName": "BandLab Pte Ltd",
-      "version": "1.0",
+      "version": "11.14.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/share/w4CRZ6jB",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/8fR9U734lFkY5ZtO3Z3U.png",
-      "category": "miscellaneous",
-      "localizedDescription": "Music Making Studio"
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/bandlab/BandLab-11.14.0-Syde.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/U5lFqtCYJynCPkO6cgR8.png",
+      "category": "productivity",
+      "localizedDescription": "Music Maker & Recording Studio"
     },
     {
       "name": "Transparent App Icons",
       "bundleIdentifier": "com.syde.transparentappicons",
-      "developerName": "Tretien",
-      "version": "1.0",
+      "developerName": "Noah Gilmore",
+      "version": "1.3.1",
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/TransparentAppIcons/TransparentAppIcons-1.3.1.ipa",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/x8s4j4d94j3k2l4h3g2f.png",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/CIf1fSexKDgNL96arXde.jpg",
       "category": "miscellaneous",
-      "localizedDescription": "Create transparent app icons."
+      "localizedDescription": "Customize Home Screen Icons"
     },
     {
       "name": "GTA Chinatown Wars",
@@ -575,15 +575,15 @@
       "localizedDescription": "Advanced AI Assistant"
     },
     {
-      "name": "Back to the Future: The Game",
-      "bundleIdentifier": "com.syde.backtothefuturethegame",
+      "name": "Minecraft: Story Mode - S2",
+      "bundleIdentifier": "com.syde.mcsm2",
       "developerName": "Telltale Games",
-      "version": "1.0",
+      "version": "1.6",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/2O7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/h3g2f8d94j3k2l4h3g2f.png",
+      "downloadURL": "https://tinyurl.com/bv8hkbn8",
+      "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/mcsm2.png",
       "category": "games",
-      "localizedDescription": "Great Scott! A new adventure."
+      "localizedDescription": "Meet again with Jesse and his team in a new adventure!"
     },
     {
       "name": "Goat Simulator",
@@ -592,31 +592,31 @@
       "version": "1.0",
       "versionDate": "2025-12-23",
       "downloadURL": "https://download.sydeapp.org/api/public/dl/3O7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/g2f8d94j3k2l4h3g2f8d.png",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/ZUKjQ6zL4AZMEkhF8xc3.png",
       "category": "games",
-      "localizedDescription": "You are a goat."
+      "localizedDescription": "Fulfil your Dreams, Be a GOAT!"
     },
     {
       "name": "Max Payne",
       "bundleIdentifier": "com.syde.maxpayne",
       "developerName": "Rockstar Games",
-      "version": "1.0",
+      "version": "2.0",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/4O7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/d94j3k2l4h3g2f8d94j3.png",
+      "downloadURL": "https://dl.iosvizor.net/max-payne-mobile/Max-Payne-Mobile-v2-0.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/CPg6M8l2mfbTRXes1XRk.png",
       "category": "games",
-      "localizedDescription": "A man with nothing to lose."
+      "localizedDescription": "Noir. Bullet Time. Revenge."
     },
     {
-      "name": "Bully Anniversary Edition",
+      "name": "Bully: Anniversary Edition",
       "bundleIdentifier": "com.syde.bullyanniversaryedition",
       "developerName": "Rockstar Games",
-      "version": "1.0",
+      "version": "1.1",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/5O7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/k2l4h3g2f8d94j3k2l4h.png",
+      "downloadURL": "https://dl.iosvizor.net/bully-anniversary-edition/Bully-Anniversary-Edition-v1-1.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/83KWaQWSfhFT0hKEpeHX.png",
       "category": "games",
-      "localizedDescription": "Survive the social hierarchy."
+      "localizedDescription": "This ain't your typical school."
     },
     {
       "name": "GTA Liberty City Stories",
@@ -625,7 +625,7 @@
       "version": "1.0",
       "versionDate": "2025-12-23",
       "downloadURL": "https://download.sydeapp.org/api/public/dl/6O7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/4h3g2f8d94j3k2l4h3g2.png",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/xnykalimZqSyb5cU9sTV.png",
       "category": "games",
       "localizedDescription": "Return to Liberty City."
     },
@@ -644,23 +644,23 @@
       "name": "Minecraft",
       "bundleIdentifier": "com.syde.minecraft",
       "developerName": "Mojang",
-      "version": "1.0",
+      "version": "1.21.124",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/8O7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/j3k2l4h3g2f8d94j3k2l.png",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/minecraft/Minecraft.1.21.124.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/DZ8QqpYodU1PgiPYGzGl.png",
       "category": "games",
-      "localizedDescription": "Create, explore and survive."
+      "localizedDescription": "Create & Explore & Survive!"
     },
     {
       "name": "Mojo",
       "bundleIdentifier": "com.syde.mojo",
       "developerName": "Archery Inc.",
-      "version": "1.0",
+      "version": "1.253.1",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/9O7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/h3g2f8d94j3k2l4h3g2f.png",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/mojoeditor/Mojo_AI_Video_._Reels_Editor_v1_253_1.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/FpDP9kCIK7MAuIpk3Rpm.png",
       "category": "miscellaneous",
-      "localizedDescription": "Create animated stories."
+      "localizedDescription": "Video Editor with AI Captions"
     },
     {
       "name": "MoshUp",
@@ -680,9 +680,9 @@
       "version": "1.0",
       "versionDate": "2025-12-23",
       "downloadURL": "https://download.sydeapp.org/api/public/dl/1P7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/d94j3k2l4h3g2f8d94j3.png",
-      "category": "miscellaneous",
-      "localizedDescription": "AI powered video editing."
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/gEorNyxLDvlCarrHm8gn.jpeg",
+      "category": "productivity",
+      "localizedDescription": "Auto Subtitles & Edit Videos"
     },
     {
       "name": "DManager",
@@ -720,24 +720,24 @@
     {
       "name": "Jaility",
       "bundleIdentifier": "com.syde.jaility",
-      "developerName": "HAH",
-      "version": "1.0",
+      "developerName": "haxi0",
+      "version": "3.1.1",
       "versionDate": "2025-12-23",
       "downloadURL": "https://download.sydeapp.org/api/public/dl/5P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/j3k2l4h3g2f8d94j3k2l.png",
       "category": "miscellaneous",
-      "localizedDescription": "Jailbreak utilities."
+      "localizedDescription": "Simple iOS Utility App."
     },
     {
       "name": "Photoshop",
       "bundleIdentifier": "com.syde.photoshop",
       "developerName": "Adobe Inc.",
-      "version": "1.0",
+      "version": "7.2.2",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/6P7fB3Z5",
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/psd/Adobe.Photoshop.Pro.7.2.2.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/h3g2f8d94j3k2l4h3g2f.png",
-      "category": "miscellaneous",
-      "localizedDescription": "Photo editing and design."
+      "category": "productivity",
+      "localizedDescription": "Photo Editor & Graphic Design"
     },
     {
       "name": "AdGuard Pro",
@@ -753,13 +753,13 @@
     {
       "name": "ProCCD",
       "bundleIdentifier": "com.syde.proccd",
-      "developerName": "Cerleo",
-      "version": "1.0",
+      "developerName": "YengShine",
+      "version": "5.2.1",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/8P7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/d94j3k2l4h3g2f8d94j3.png",
-      "category": "miscellaneous",
-      "localizedDescription": "Retro digital camera."
+      "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/proccd/ProCCD.VIP.5.2.1.ipa",
+      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/fGD8EfvTOmUWztDppsR8.png",
+      "category": "photo-video",
+      "localizedDescription": "2000s Vintage Analog Film"
     },
     {
       "name": "Dazz Cam",
@@ -786,13 +786,13 @@
     {
       "name": "Balatro",
       "bundleIdentifier": "com.syde.balatro",
-      "developerName": "Playstack",
-      "version": "1.0",
+      "developerName": "Playstack Ltd",
+      "version": "1.3",
       "versionDate": "2025-12-23",
-      "downloadURL": "https://download.sydeapp.org/api/public/dl/1Q7fB3Z5",
-      "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/f8d94j3k2l4h3g2f8d94.png",
+      "downloadURL": "https://tinyurl.com/3cte39dv",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2024/09/balatro-768x768.webp",
       "category": "games",
-      "localizedDescription": "Poker roguelike."
+      "localizedDescription": "When Poker Meets Solitaire"
     }
   ],
   "syde": {
