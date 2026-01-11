@@ -120,7 +120,7 @@
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/adobe/Lightroom_Premium_9.5.1.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/QuLMqZvmJG0oAUHWYTkP.png",
-      "category": "photo-video",
+      "category": "photoandvideo",
       "localizedDescription": "AI Image Retouch, Blur, Remove"
     },
     {
@@ -131,7 +131,7 @@
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/0.3mp/0.3MPCamera-3.5.3-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/EMP8hO8N95kP2edwYaTV.png",
-      "category": "photo-video",
+      "category": "photoandvideo",
       "localizedDescription": "Nokia-inspired low-res camera."
     },
     {
@@ -395,7 +395,7 @@
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/inf/Infuse-v8.3.5-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/xwgobqoco1oYMOja0VpL.png",
-      "category": "photo-video",
+      "category": "photoandvideo",
       "localizedDescription": "Organize and play your videos"
     },
     {
@@ -450,7 +450,7 @@
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/4hJHqoUcqd2RgMA6mTFq.png",
-      "category": "jailbreak",
+      "category": "miscellaneous",
       "localizedDescription": "Untethered Jailbreak for 15.0 - 16.6.1"
     },
     {
@@ -472,7 +472,7 @@
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/PixelPunk/LoFi.Cam.Pro.3.3.0.-.SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/XQSJiwznNR1msubUOnwC.png",
-      "category": "photo-video",
+      "category": "photoandvideo",
       "localizedDescription": "Retro CCD, Vintage Film Camera"
     },
     {
@@ -483,7 +483,7 @@
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/AM/Alight.Motion.6.2.8.-.Premium-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/A5oFbn0H1nqfYfwvqojp.png",
-      "category": "photo-video",
+      "category": "photoandvideo",
       "localizedDescription": "Motion Design & Video Effects"
     },
     {
@@ -758,7 +758,7 @@
       "versionDate": "2025-12-23",
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/proccd/ProCCD.VIP.5.2.1.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/fGD8EfvTOmUWztDppsR8.png",
-      "category": "photo-video",
+      "category": "photoandvideo",
       "localizedDescription": "2000s Vintage Analog Film"
     },
     {
@@ -810,16 +810,12 @@
         "title": "Miscellaneous"
       },
       {
-        "id": "photo-video",
+        "id": "photoandvideo",
         "title": "Photo & Video"
       },
       {
         "id": "entertainment",
         "title": "Entertainment"
-      },
-      {
-        "id": "jailbreak",
-        "title": "Jailbreak"
       },
       {
         "id": "productivity",
