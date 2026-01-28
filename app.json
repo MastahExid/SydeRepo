@@ -11,7 +11,10 @@
       "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/3ip81JVwon4M6tYFt1dK.jpg",
       "category": "emulators",
-      "localizedDescription": "All-in-one Emulator for iOS and iPadOS."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "All-in-one Emulator for iOS and iPadOS.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Flappy Bird",
@@ -22,7 +25,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/dotgears/FlappyBird-4.3-64bit.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/RiEITLw4yd1tWykizYiw.png",
       "category": "games",
-      "localizedDescription": "One bird, endless amounts of anger."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "One bird, endless amounts of anger.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "iSSB",
@@ -33,7 +39,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/issb/iSSB.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/J1ftE63Piyo3LVL4Dqk4.png",
       "category": "games",
-      "localizedDescription": "A Super Smash Bros Fan-Game"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "A Super Smash Bros Fan-Game",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Minecraft: Story Mode",
@@ -44,7 +53,10 @@
       "downloadURL": "https://tinyurl.com/bd2c79nk",
       "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/mcsm.png",
       "category": "games",
-      "localizedDescription": "A Story Adventure in the World of Minecraft!"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "A Story Adventure in the World of Minecraft!",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Web Inspector",
@@ -55,7 +67,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/andadinosaur/Web.Inspector_1.2.7.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/787LVMpbTepHVwy3sDWy.png",
       "category": "miscellaneous",
-      "localizedDescription": "Inspect Element for Safari"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Inspect Element for Safari",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "RetroArch",
@@ -66,7 +81,10 @@
       "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/eaqgne9OniuJigutGo4R.png",
       "category": "emulators",
-      "localizedDescription": "A frontend for Emulators."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "A frontend for Emulators.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "PPSSPP",
@@ -77,7 +95,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/henrikrydgard/PPSSPP_10018.0.0.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/DVZUQ96qxhj8EAiPeFWO.png",
       "category": "emulators",
-      "localizedDescription": "PSP Emulator for iOS."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "PSP Emulator for iOS.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Manic EMU",
@@ -88,7 +109,10 @@
       "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v1.8.1/ManicEMU.v1.8.1.SideloadJIT.ipa",
       "iconURL": "https://manicemu.site/images/logo.png",
       "category": "emulators",
-      "localizedDescription": "All-in-one retro emulator with a clean UI, powerful features, and smooth gameplay."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "All-in-one retro emulator with a clean UI, powerful features, and smooth gameplay.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Folium",
@@ -99,7 +123,10 @@
       "downloadURL": "https://github.com/folium-app/Folium/releases/download/1.36/Folium-iOS.1.36.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/BHqfLF8Rgggfz12mmnkT.png",
       "category": "emulators",
-      "localizedDescription": "SNES/DS/3DS Emulator"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "SNES/DS/3DS Emulator",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "The Walking Dead",
@@ -110,7 +137,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/telltale/TWD-Season1-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/RdzdZRWxMhRu53wOBiga.png",
       "category": "games",
-      "localizedDescription": "GOTY Winner Story-Game"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "GOTY Winner Story-Game",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Lightroom",
@@ -121,7 +151,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/adobe/Lightroom_Premium_9.5.1.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/QuLMqZvmJG0oAUHWYTkP.png",
       "category": "photoandvideo",
-      "localizedDescription": "AI Image Retouch, Blur, Remove"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "AI Image Retouch, Blur, Remove",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "0.3MP Camera",
@@ -132,7 +165,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/0.3mp/0.3MPCamera-3.5.3-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/EMP8hO8N95kP2edwYaTV.png",
       "category": "photoandvideo",
-      "localizedDescription": "Nokia-inspired low-res camera."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Nokia-inspired low-res camera.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "SUMEE!",
@@ -143,7 +179,10 @@
       "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.6/minivmac4ios-2.6.ipa",
       "iconURL": "https://sumee.online/logo.webp",
       "category": "emulators",
-      "localizedDescription": "A modern emulation launcher"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "A modern emulation launcher",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Ignited",
@@ -154,7 +193,10 @@
       "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/versions/1.8.6/Ignited.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/Mw8FcxFdRZPx4DhIacfg.png",
       "category": "emulators",
-      "localizedDescription": "Retro Games meet Modern Design."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Retro Games meet Modern Design.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Five Nights at Freddy’s 2",
@@ -165,7 +207,10 @@
       "downloadURL": "https://tinyurl.com/4y3xncz9",
       "iconURL": "https://iosvizor.com/wp-content/uploads/2023/07/Five-Nights-at-Freddys-2.png",
       "category": "games",
-      "localizedDescription": "No place to run."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "No place to run.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Flycast",
@@ -176,7 +221,10 @@
       "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.4/Flycast-2.4.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/grnpb6401HpoHPU8pqjc.png",
       "category": "emulators",
-      "localizedDescription": "Emulate Dreamcast & more!"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Emulate Dreamcast & more!",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Provenance",
@@ -187,7 +235,10 @@
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/o7DL337fIQ5WA7YVzBgj.png",
       "category": "emulators",
-      "localizedDescription": "Multi-emulator frontend for iOS & tvOS"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Multi-emulator frontend for iOS & tvOS",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Five Nights at Freddy’s",
@@ -198,7 +249,10 @@
       "downloadURL": "https://tinyurl.com/374y93xb",
       "iconURL": "https://iosvizor.com/wp-content/uploads/2023/11/five-nights-at-freddys.png",
       "category": "games",
-      "localizedDescription": "You have the night watch."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "You have the night watch.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "iDOS",
@@ -209,7 +263,10 @@
       "downloadURL": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/Thn6H7nOBFZ5hsyvo5mw.png",
       "category": "emulators",
-      "localizedDescription": "Play DOS games on iOS."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Play DOS games on iOS.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "UTM",
@@ -220,7 +277,10 @@
       "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/RvPMBVq0DoL4djAJKuIW.png",
       "category": "emulators",
-      "localizedDescription": "Virtual machines for iOS"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Virtual machines for iOS",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Play!",
@@ -231,7 +291,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/play/Play-PS2-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/6SZNe52l0wo7BQboVrCl.png",
       "category": "emulators",
-      "localizedDescription": "PlayStation 2 Emulator"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "PlayStation 2 Emulator",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Rewound",
@@ -242,7 +305,10 @@
       "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Rewound.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/glWaIh5y8bL2FJc5u2tk.png",
       "category": "miscellaneous",
-      "localizedDescription": "Turn your iPhone into an iPod Classic."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Turn your iPhone into an iPod Classic.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "OldOS",
@@ -253,7 +319,10 @@
       "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_7/OldOS.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/GfNlaweEP39FRMzGtHer.png",
       "category": "miscellaneous",
-      "localizedDescription": "Relive iOS 4 on Modern Devices."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Relive iOS 4 on Modern Devices.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "HITMAN World of Assassination",
@@ -264,7 +333,10 @@
       "downloadURL": "https://dl.iosvizor.net/hitman-world-of-assassination/HITMAN-World-of-Assassination-v3-230-7.ipa",
       "iconURL": "https://iosvizor.com/wp-content/uploads/2025/09/hitman-world-of-assassination.webp",
       "category": "games",
-      "localizedDescription": "Become Agent 47, the ultimate stealth assassin."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Become Agent 47, the ultimate stealth assassin.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "TrollInstallerX",
@@ -275,7 +347,10 @@
       "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/TYHwxBJaSoJBAUxlcOLA.png",
       "category": "miscellaneous",
-      "localizedDescription": "Universal TrollStore Installer"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Universal TrollStore Installer",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Stemz",
@@ -286,7 +361,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/stemz/Stemz.Max.4.03.01.ipa",
       "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/stemz.png",
       "category": "productivity",
-      "localizedDescription": "Effortlessly isolate vocals from any song."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Effortlessly isolate vocals from any song.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "ShowMania",
@@ -297,7 +375,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/showmania/ShowMania_1.0.5_Syde.ipa",
       "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/512x512bb.jpg",
       "category": "entertainment",
-      "localizedDescription": "Stream Movies & TV Shows for Free!"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Stream Movies & TV Shows for Free!",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "R.E.P.O",
@@ -308,7 +389,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/gleports/R.E.P.O.v0.2.SYDE.ipa",
       "iconURL": "https://i.imgur.com/bJIPI2W.png",
       "category": "games",
-      "localizedDescription": "Retrieve valuables, avoid monsters, survive!"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Retrieve valuables, avoid monsters, survive!",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "HD Flix",
@@ -319,7 +403,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/hdf/HD.Flix.No.Ads.v2.0.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/wvYwfrZ3ZQ5VAFWLTsr8.png",
       "category": "entertainment",
-      "localizedDescription": "Stream Movies & TV Shows"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Stream Movies & TV Shows",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "MovieBoxPro",
@@ -330,7 +417,10 @@
       "downloadURL": "https://www.movieboxpro.app/ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/b9J1mUszkWvoVMJDdq2B.png",
       "category": "entertainment",
-      "localizedDescription": "Watch Anytime, Anywhere Instantly."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Watch Anytime, Anywhere Instantly.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "GTA III",
@@ -341,7 +431,10 @@
       "downloadURL": "https://tinyurl.com/2nmu3wy6",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/tHpCssU3P9Sp1TPSPFLJ.png",
       "category": "games",
-      "localizedDescription": "The Crime-Epic that Reshaped Gaming."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "The Crime-Epic that Reshaped Gaming.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "GTA Vice City",
@@ -352,7 +445,10 @@
       "downloadURL": "https://tinyurl.com/mpw2kp9r",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/lQB4WXKFbB3UyWcfsMDA.png",
       "category": "games",
-      "localizedDescription": "Welcome to Vice City."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Welcome to Vice City.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "GTA San Andreas",
@@ -363,7 +459,10 @@
       "downloadURL": "https://tinyurl.com/5cw2s2z2",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/1Yoo4MB6Cnpxl36VvLlF.png",
       "category": "games",
-      "localizedDescription": "Save CJ's family, reclaim the streets."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Save CJ's family, reclaim the streets.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Resident Evil 4",
@@ -374,7 +473,10 @@
       "downloadURL": "https://tinyurl.com/2kt3ap6d",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/bbku08cPlNrDNBjlx9zG.png",
       "category": "games",
-      "localizedDescription": "Survival is just the beginning."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Survival is just the beginning.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "MyFitnessPal",
@@ -385,7 +487,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/myfitnesspal/MyFitnessPal.Premium.25.50.0.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/b5XFiVonAjjq1iEu1L9i.png",
       "category": "miscellaneous",
-      "localizedDescription": "Reach health, fitness & weight goals."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Reach health, fitness & weight goals.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Infuse",
@@ -396,7 +501,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/inf/Infuse-v8.3.5-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/xwgobqoco1oYMOja0VpL.png",
       "category": "photoandvideo",
-      "localizedDescription": "Organize and play your videos"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Organize and play your videos",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Subnautica",
@@ -407,7 +515,10 @@
       "downloadURL": "https://mobdisc.com/fdl/2346fbf8-b0b8-4122-9619-d7f027b87c81/Subnautica-v1-2-4.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/5b/e8/eb5be8e8-3c4a-fcff-b2b6-f4661b30475d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "games",
-      "localizedDescription": "A survival open-world undersea"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "A survival open-world undersea",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Sudachi",
@@ -418,7 +529,10 @@
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Sudachi-0.0.1.7.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/v5dMTIzju50uWtNRsJkF.jpg",
       "category": "emulators",
-      "localizedDescription": "Nintendo Switch Emulator"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Nintendo Switch Emulator",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "LiveContainer",
@@ -429,7 +543,10 @@
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.6.1/LiveContainer.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/9fpze6bipP9kkenvg3dX.jpg",
       "category": "miscellaneous",
-      "localizedDescription": "Run iOS apps without installation."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Run iOS apps without installation.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "PojavLauncher",
@@ -440,7 +557,10 @@
       "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/0nrsB52X8lOX24zWYqma.png",
       "category": "games",
-      "localizedDescription": "Minecraft Java Edition Client for iOS."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Minecraft Java Edition Client for iOS.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Dopamine",
@@ -451,7 +571,10 @@
       "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/4hJHqoUcqd2RgMA6mTFq.png",
       "category": "miscellaneous",
-      "localizedDescription": "Untethered Jailbreak for 15.0 - 16.6.1"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Untethered Jailbreak for 15.0 - 16.6.1",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Gangstar Rio: City of Saints",
@@ -462,7 +585,10 @@
       "downloadURL": "https://dl.iosvizor.net/gangstar-rio-city-of-saints/Gangstar-Rio-City-of-Saints-v1-4-11.ipa",
       "iconURL": "https://iosvizor.com/wp-content/uploads/2017/09/1331.jpg",
       "category": "games",
-      "localizedDescription": "The Return of the famous series Gangstar"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "The Return of the famous series Gangstar",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "LoFi Cam",
@@ -473,7 +599,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/PixelPunk/LoFi.Cam.Pro.3.3.0.-.SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/XQSJiwznNR1msubUOnwC.png",
       "category": "photoandvideo",
-      "localizedDescription": "Retro CCD, Vintage Film Camera"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Retro CCD, Vintage Film Camera",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Alight Motion",
@@ -484,7 +613,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/AM/Alight.Motion.6.2.8.-.Premium-SYDE.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/A5oFbn0H1nqfYfwvqojp.png",
       "category": "photoandvideo",
-      "localizedDescription": "Motion Design & Video Effects"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Motion Design & Video Effects",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Alien: Isolation",
@@ -495,7 +627,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/feralint/Alien.Isolation.v1.3.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/rtEc5Dr0koN5S4MUyhFT.png",
       "category": "games",
-      "localizedDescription": "Run. Hide. Survive."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Run. Hide. Survive.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "The Wolf Among Us",
@@ -506,7 +641,10 @@
       "downloadURL": "https://download.gamejolt.net/d7b9ce8b13d44f6c588dbe4896069a4f60e2a89f48e59394a22fa1511f94faf5,1766849141,7/data/games/16/108/1038608/files/694e97f3cdb04/the-wolf-among-us-alleps-syde.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/uvt5fWdFMiJalv6lSIJQ.png",
       "category": "games",
-      "localizedDescription": "A gritty, noir tale in the Fables universe."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "A gritty, noir tale in the Fables universe.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Nuvio",
@@ -517,7 +655,10 @@
       "downloadURL": "https://github.com/tapframe/NuvioStreaming/releases/download/1.3.0/Stable_1-3-0.ipa",
       "iconURL": "https://raw.githubusercontent.com/tapframe/NuvioStreaming/refs/heads/main/assets/ios/iTunesArtwork%403x.png",
       "category": "entertainment",
-      "localizedDescription": "A Simple Media Hub"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "A Simple Media Hub",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "BandLab",
@@ -528,7 +669,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/bandlab/BandLab-11.14.0-Syde.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/U5lFqtCYJynCPkO6cgR8.png",
       "category": "productivity",
-      "localizedDescription": "Music Maker & Recording Studio"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Music Maker & Recording Studio",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Transparent App Icons",
@@ -539,7 +683,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/TransparentAppIcons/TransparentAppIcons-1.3.1.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/CIf1fSexKDgNL96arXde.jpg",
       "category": "miscellaneous",
-      "localizedDescription": "Customize Home Screen Icons"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Customize Home Screen Icons",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "GTA Chinatown Wars",
@@ -550,7 +697,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/9O7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/t4h3g2f8d94j3k2l4h3g.png",
       "category": "games",
-      "localizedDescription": "Left for dead in the worst place in America."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Left for dead in the worst place in America.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Lego Star Wars TCS",
@@ -561,7 +711,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/0O7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/f8d94j3k2l4h3g2f8d94.png",
       "category": "games",
-      "localizedDescription": "The Complete Saga."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "The Complete Saga.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "DeepSeek",
@@ -572,7 +725,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/1O7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/j3k2l4h3g2f8d94j3k2l.png",
       "category": "miscellaneous",
-      "localizedDescription": "Advanced AI Assistant"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Advanced AI Assistant",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Minecraft: Story Mode - S2",
@@ -583,7 +739,10 @@
       "downloadURL": "https://tinyurl.com/bv8hkbn8",
       "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeRepo/refs/heads/main/mcsm2.png",
       "category": "games",
-      "localizedDescription": "Meet again with Jesse and his team in a new adventure!"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Meet again with Jesse and his team in a new adventure!",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Goat Simulator",
@@ -594,7 +753,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/3O7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/ZUKjQ6zL4AZMEkhF8xc3.png",
       "category": "games",
-      "localizedDescription": "Fulfil your Dreams, Be a GOAT!"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Fulfil your Dreams, Be a GOAT!",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Max Payne",
@@ -605,7 +767,10 @@
       "downloadURL": "https://dl.iosvizor.net/max-payne-mobile/Max-Payne-Mobile-v2-0.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/CPg6M8l2mfbTRXes1XRk.png",
       "category": "games",
-      "localizedDescription": "Noir. Bullet Time. Revenge."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Noir. Bullet Time. Revenge.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Bully: Anniversary Edition",
@@ -616,7 +781,10 @@
       "downloadURL": "https://dl.iosvizor.net/bully-anniversary-edition/Bully-Anniversary-Edition-v1-1.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/83KWaQWSfhFT0hKEpeHX.png",
       "category": "games",
-      "localizedDescription": "This ain't your typical school."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "This ain't your typical school.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "GTA Liberty City Stories",
@@ -627,7 +795,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/6O7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/xnykalimZqSyb5cU9sTV.png",
       "category": "games",
-      "localizedDescription": "Return to Liberty City."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Return to Liberty City.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "1Blocker",
@@ -638,7 +809,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/7O7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/f8d94j3k2l4h3g2f8d94.png",
       "category": "miscellaneous",
-      "localizedDescription": "Block ads and trackers."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Block ads and trackers.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Minecraft",
@@ -649,7 +823,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/minecraft/Minecraft.1.21.124.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/DZ8QqpYodU1PgiPYGzGl.png",
       "category": "games",
-      "localizedDescription": "Create & Explore & Survive!"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Create & Explore & Survive!",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Mojo",
@@ -660,7 +837,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/mojoeditor/Mojo_AI_Video_._Reels_Editor_v1_253_1.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/FpDP9kCIK7MAuIpk3Rpm.png",
       "category": "miscellaneous",
-      "localizedDescription": "Video Editor with AI Captions"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Video Editor with AI Captions",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "MoshUp",
@@ -671,7 +851,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/0P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/g2f8d94j3k2l4h3g2f8d.png",
       "category": "miscellaneous",
-      "localizedDescription": "Datamoshing made easy."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Datamoshing made easy.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Captions",
@@ -682,7 +865,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/1P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/gEorNyxLDvlCarrHm8gn.jpeg",
       "category": "productivity",
-      "localizedDescription": "Auto Subtitles & Edit Videos"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Auto Subtitles & Edit Videos",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "DManager",
@@ -693,7 +879,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/2P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/k2l4h3g2f8d94j3k2l4h.png",
       "category": "miscellaneous",
-      "localizedDescription": "Browser and Documents Manager."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Browser and Documents Manager.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Duet Display",
@@ -704,7 +893,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/3P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/4h3g2f8d94j3k2l4h3g2.png",
       "category": "miscellaneous",
-      "localizedDescription": "Use your iPad as a second display."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Use your iPad as a second display.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Video Star",
@@ -715,7 +907,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/4P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/f8d94j3k2l4h3g2f8d94.png",
       "category": "miscellaneous",
-      "localizedDescription": "Music video maker."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Music video maker.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Jaility",
@@ -726,7 +921,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/5P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/j3k2l4h3g2f8d94j3k2l.png",
       "category": "miscellaneous",
-      "localizedDescription": "Simple iOS Utility App."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Simple iOS Utility App.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Photoshop",
@@ -737,7 +935,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/psd/Adobe.Photoshop.Pro.7.2.2.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/h3g2f8d94j3k2l4h3g2f.png",
       "category": "productivity",
-      "localizedDescription": "Photo Editor & Graphic Design"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Photo Editor & Graphic Design",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "AdGuard Pro",
@@ -748,7 +949,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/7P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/g2f8d94j3k2l4h3g2f8d.png",
       "category": "miscellaneous",
-      "localizedDescription": "Ad blocking and privacy protection."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Ad blocking and privacy protection.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "ProCCD",
@@ -759,7 +963,10 @@
       "downloadURL": "https://github.com/MastahExid/SydeIPAs/releases/download/proccd/ProCCD.VIP.5.2.1.ipa",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/fGD8EfvTOmUWztDppsR8.png",
       "category": "photoandvideo",
-      "localizedDescription": "2000s Vintage Analog Film"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "2000s Vintage Analog Film",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Dazz Cam",
@@ -770,7 +977,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/9P7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/k2l4h3g2f8d94j3k2l4h.png",
       "category": "miscellaneous",
-      "localizedDescription": "Vintage camera effects."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "Vintage camera effects.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "TrueVHS",
@@ -781,7 +991,10 @@
       "downloadURL": "https://download.sydeapp.org/api/public/dl/0Q7fB3Z5",
       "iconURL": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Q5FXaGFXxTAuWj5Jc0Rz/pub/4h3g2f8d94j3k2l4h3g2.png",
       "category": "miscellaneous",
-      "localizedDescription": "90s VHS Camcorder."
+      "localizedDescription": "Only On Syde",
+      "subtitle": "90s VHS Camcorder.",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     },
     {
       "name": "Balatro",
@@ -792,7 +1005,10 @@
       "downloadURL": "https://tinyurl.com/3cte39dv",
       "iconURL": "https://iosvizor.com/wp-content/uploads/2024/09/balatro-768x768.webp",
       "category": "games",
-      "localizedDescription": "When Poker Meets Solitaire"
+      "localizedDescription": "Only On Syde",
+      "subtitle": "When Poker Meets Solitaire",
+      "size": "1.3 MB",
+      "screenshotURLs": []
     }
   ],
   "syde": {
