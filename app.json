@@ -1,5 +1,6 @@
 {
   "name": "Syde",
+  "iconURL": "https://raw.githubusercontent.com/MastahExid/SydeIPAs/refs/heads/main/AppIcon.png",
   "identifier": "com.exid.syde.repo",
   "apps": [
     {
